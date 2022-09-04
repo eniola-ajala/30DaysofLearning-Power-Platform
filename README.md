@@ -23,3 +23,7 @@ Power BI is a collection of software services, apps and connectors that work tog
 It enables everyone to create dashboards and interactive reports using low-code/no-code with tools that have pre-built formats. It enables everyone to personalize data visualization based on their unique needs.
 ### Power Pages:
 It can allow us build websites and also put our data visualizations on the website. Power Pages as a secure enterprise creates low-code software as a service platform for creating, hosting and administrating modern websites. Power Pages enables everyone to create websites using low-code/no-code with pre-built templates or from scratch.
+### Power Virtual Agents (Chatbots):
+Virtual Agents creates and manage powerful bots - without the need for code or AI expertise. PVA has easy-to-use graphical interface. Easily integrate your Chatbot with the products and services you use everyday.
+
+# Day 02
