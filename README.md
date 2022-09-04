@@ -9,8 +9,11 @@ The 30DaysOfLearning was aimed at empowering the next generation of developers i
 The main page is accessible via https://aka.ms/30DLOnboardingRecap
 
 Power platform is a unified platform of low code tools that spans office 365, Azure, Dynamics 365 and standalone applications.
-The 5 applications in power platform are Power Automate, Power BI, Power Pages, Virtual Agents, Power Apps.
+
 
 # Day 01
+### Introduction to power platform
+Power platform is a unified platform of low code tools that spans office 365, Azure, Dynamics 365 and standalone applications.
+The 5 applications in power platform are Power Automate, Power BI, Power Pages, Virtual Agents, Power Apps.
  ### Power Apps: 
 Power Apps are used to create web and mobile applications without writing any code.
