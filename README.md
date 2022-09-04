@@ -8,7 +8,6 @@ The 30DaysOfLearning was aimed at empowering the next generation of developers i
 
 The main page is accessible via https://aka.ms/30DLOnboardingRecap
 
-Power platform is a unified platform of low code tools that spans office 365, Azure, Dynamics 365 and standalone applications.
 
 
 # Day 01
