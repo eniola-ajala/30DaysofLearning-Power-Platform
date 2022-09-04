@@ -44,6 +44,6 @@ Different languages to pick from, Geographical locations, multiple author suppor
 # Day 05
 ## Building an automated solution
 
-$ Day 08
+# Day 08
 ## Building an automated solution (2)
 
