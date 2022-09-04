@@ -18,3 +18,6 @@ The 5 applications in power platform are Power Automate, Power BI, Power Pages, 
 Power Apps are used to create web and mobile applications without writing any code.
 ### Power Automate:
 Power Automate is an online workflow service that automates actions across most common apps and services. Power Automate allows you to automate repetitive manual tasks that are important in running business operations e.g send automatic reminders for past due tasks.
+### Power BI (Business Intelligence):
+Power BI is a collection of software services, apps and connectors that work together to turn sources of data into coherent visually massive insights. 
+It enables everyone to create dashboards and interactive reports using low-code/no-code with tools that have pre-built formats. It enables everyone to personalize data visualization based on their unique needs.
