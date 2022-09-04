@@ -31,3 +31,19 @@ Virtual Agents creates and manage powerful bots - without the need for code or A
 Microsoft Sharepoint is built on Microsoft 365. It is s content management system (CMS) developed by Microsoft. Sharepoint enables you to create sites and share documents and information with colleagues and customers. 
 Sharepoint is a key Digital Transformation Driver. Digital Transformation is about making our organisation effective in fast-changing environment.
 Microsoft Dataverse is a cloud storage.
+
+# Day 03
+## Introduction to Power Virtual Agents
+PVA empowers us to quickly create powerful chatbots for our organisations and businesses without any help or developers and data scientists. "
+Features of PVA:
+Different languages to pick from, Geographical locations, multiple author support, Export and import, power automate integration, integration with Microsoft Power platform.
+
+# Day 04
+## Building Virtual Bot; simple PVA solution.
+
+# Day 05
+## Building an automated solution
+
+$ Day 08
+## Building an automated solution (2)
+
