@@ -11,7 +11,7 @@ The main page is accessible via https://aka.ms/30DLOnboardingRecap
 
 
 # Day 01
-### Introduction to power platform
+##Introduction to power platform
 Power platform is a unified platform of low code tools that spans office 365, Azure, Dynamics 365 and standalone applications.
 The 5 applications in power platform are Power Automate, Power BI, Power Pages, Virtual Agents, Power Apps.
  ### Power Apps: 
@@ -27,3 +27,4 @@ It can allow us build websites and also put our data visualizations on the websi
 Virtual Agents creates and manage powerful bots - without the need for code or AI expertise. PVA has easy-to-use graphical interface. Easily integrate your Chatbot with the products and services you use everyday.
 
 # Day 02
+## Introduction to Dataverse and Sharepoint 
