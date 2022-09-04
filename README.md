@@ -1,3 +1,5 @@
+![power-platform](https://images.app.goo.gl/Z7iYT939znVg11eV7)
+
 # 30DaysofLearning-Power-Platform
 
 #30DaysOfLearning - a fun-packed, interactive training program designed by Cloud Advocates at Microsoft.
