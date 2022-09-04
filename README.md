@@ -16,3 +16,5 @@ Power platform is a unified platform of low code tools that spans office 365, Az
 The 5 applications in power platform are Power Automate, Power BI, Power Pages, Virtual Agents, Power Apps.
  ### Power Apps: 
 Power Apps are used to create web and mobile applications without writing any code.
+### Power Automate:
+Power Automate is an online workflow service that automates actions across most common apps and services. Power Automate allows you to automate repetitive manual tasks that are important in running business operations e.g send automatic reminders for past due tasks.
