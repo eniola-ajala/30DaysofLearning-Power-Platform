@@ -42,8 +42,48 @@ Different languages to pick from, Geographical locations, multiple author suppor
 ## Building Virtual Bot; simple PVA solution.
 
 # Day 05
-## Building an automated solution
+## Introduction to Power Automate
 
 # Day 08
-## Building an automated solution (2)
+## Building an automated solution
 
+
+# Day 09
+## Building an automated solution 2
+
+# Day 10
+## Introduction to Power Apps
+
+# Day 11
+## Building a canvas application with power apps
+
+
+# Day 12
+## Building a model driven application with power apps
+
+# Day 13
+## Building accessible applications with Microsoft power platform
+
+# Day 14
+## Building a solution with power pages
+
+# Day 15
+## Building a solution with power pages 2
+
+# Day 17
+## Connecting The Dots: Working with Virtual Agents. Aka.ms/connectPVA
+
+# Day 18
+## Connecting The Dots: Working with Power Automate. Aka.ms/PA
+
+# Day 19
+## Connecting The Dots: Working with Power Apps
+
+# Day 20
+## Student Ambassador shows survey solution built with power platform and Microsoft teams 
+
+# Day 21
+## Our power platform solution
+
+# Day 22
+## Showcasing our power platform solution on GitHub.
