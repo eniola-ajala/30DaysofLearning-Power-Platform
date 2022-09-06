@@ -81,6 +81,7 @@ Different languages to pick from, Geographical locations, multiple author suppor
 
 # Day 20
 ## Student Ambassador shows survey solution built with power platform and Microsoft teams 
+Check solution at; https://aka.ms/ppsamples
 
 # Day 21
 ## Our power platform solution
