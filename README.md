@@ -73,6 +73,14 @@ Different languages to pick from, Geographical locations, multiple author suppor
 # Day 17
 ## Connecting The Dots: Working with Virtual Agents. Aka.ms/connectPVA
 
+#### Problem Statement 
+Easing the stress of students and educators with relations to submission, approval and review of student's final year projects.
+
+#### Solution
+• Students should be able to submit their project topics in real-time,
+•Lecturers should be able to approve or reject project topics in real-time,
+• Lecturers should have a database of submitted and approved project topics.
+
 # Day 18
 ## Connecting The Dots: Working with Power Automate. Aka.ms/PA
 
