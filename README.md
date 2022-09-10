@@ -29,7 +29,8 @@ Virtual Agents creates and manage powerful bots - without the need for code or A
 # Day 02
 ## Introduction to Dataverse and Sharepoint 
 Microsoft Sharepoint is built on Microsoft 365. It is s content management system (CMS) developed by Microsoft. Sharepoint enables you to create sites and share documents and information with colleagues and customers. 
-Sharepoint is a key Digital Transformation Driver. Digital Transformation is about making our organisation effective in fast-changing environment.
+Sharepoint is a key Digital Transformation Driver.
+ Digital Transformation is about making our organisation effective in fast-changing environment.
 Microsoft Dataverse is a cloud storage.
 
 # Day 03
@@ -77,7 +78,7 @@ Different languages to pick from, Geographical locations, multiple author suppor
 Easing the stress of students and educators with relations to submission, approval and review of student's final year projects.
 
 #### Solution
-• Students should be able to submit their project topics in real-time
+• Students should be able to submit their project topics in real-time.
 
 •Lecturers should be able to approve or reject project topics in real-time
 
