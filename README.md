@@ -49,7 +49,7 @@ Different languages to pick from, Geographical locations, multiple author suppor
 
 
 # Day 09
-## Building an automated solution 2
+## Building an automated solution (2)
 
 # Day 10
 ## Introduction to Power Apps
