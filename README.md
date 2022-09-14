@@ -6,7 +6,7 @@
 The 30DaysOfLearning was aimed at empowering the next generation of developers in higher institutions across the globe with access to the right tech skills and opportunities they need to go global.
  The programme was designed to help upskill students with Microsoft technologies by learning and building solutions across these knowledge areas; Data Analysis Using Power BI, Low-code/No-Code Application Development using Power Platform, and Data Science and Machine Learning with Azure.
 
- This repo contains my notes from the power platform program. 
+ This repo contains my notes from the power platform track. 
 
 The main page is accessible via https://aka.ms/30DLOnboardingRecap
 
